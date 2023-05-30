@@ -1,3 +1,3 @@
-My name is Kingsley 
-i am a student of alx
-i am currently studying software engineering
+My name is Kingsley, 
+I am a software engineer at alx
+
